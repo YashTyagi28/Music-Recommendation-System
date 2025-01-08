@@ -1,0 +1,9 @@
+.venv
+.cache
+audio1.mp3
+audio2.wav
+clean_data.csv
+features.csv
+normalized_clean_data.csv
+scaled_clean_data.csv
+tracks.csv
